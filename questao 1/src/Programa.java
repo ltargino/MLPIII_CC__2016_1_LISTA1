@@ -13,6 +13,6 @@ public class Programa {
 		System.out.println("Valor:");
 		faturateste.setprecoItem(scan.nextDouble());
 
-		System.out.println("Fatura atual:"+faturateste.getValorFatura());
+		//System.out.println("Fatura atual:"+faturateste.getValorFatura());
 	}
 }
